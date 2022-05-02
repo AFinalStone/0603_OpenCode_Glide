@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF008888"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv_glide_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Glide测试"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_load_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="加载图片" />
+
+    <Button
+        android:id="@+id/btn_pause_load_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="暂停加载图片" />
+
+    <Button
+        android:id="@+id/btn_resume_load_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="恢复图片加载" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/ll_images"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" />
+
+    </ScrollView>
+</LinearLayout>

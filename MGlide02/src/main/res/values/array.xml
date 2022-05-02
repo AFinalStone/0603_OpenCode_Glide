@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_urls">
+        <item>http://newsimg.5054399.com/uploads/userup/1801/191K504F05.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1801/2209223L125.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1801/191K504F05.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1801/2209223L125.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1801/191K4245X7.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1712/1114350IL8.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1712/091529215091.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1711/06101G49241.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1801/291135303335.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1801/29113122W01.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1710/031141011F0.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1709/0Q5200U422.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1709/0Q40QSJ5.jpg</item>
+        <item>http://newsimg.5054399.com/uploads/userup/1709/0Q14JD1F.jpg</item>
+    </string-array>
+
+</resources>
